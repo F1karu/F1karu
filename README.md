@@ -1,11 +1,11 @@
 =# Hello, World! 👋
 
-I am **[Your Name]**, a passionate student at **SMK Telkom** majoring in **Rekayasa Perangkat Lunak (RPL)**. I’m on a journey to become a skilled software engineer, with a strong focus on developing innovative and efficient software solutions.
+I am **Dzulfikar**, a passionate student at **SMK Telkom** majoring in **Rekayasa Perangkat Lunak (RPL)**. I’m on a journey to become a skilled software engineer, with a strong focus on developing innovative and efficient software solutions.
 
 ## 👨‍💻 About Me:
 - 🎓 **Student:** SMK Telkom - Rekayasa Perangkat Lunak
 - 💻 **Tech Enthusiast:** Excited about coding, problem-solving, and technology trends.
-- 🔧 **Skills:** C++, Python, JavaScript, HTML, CSS, and more!
+- 🔧 **Skills:** MySQL, PHP, NextJS, HTML, CSS, and more!
 - 🌱 **Currently Learning:** Web Development, Mobile Apps, Cybersecurity, and Data Science.
 - 📚 **Projects:** Working on various projects related to web development and software engineering.
 
@@ -15,9 +15,9 @@ I am **[Your Name]**, a passionate student at **SMK Telkom** majoring in **Rekay
 - Collaborate with developers worldwide to create impactful solutions.
 
 ## 🛠️ My Toolbox:
-- **Languages:** Java, Python, JavaScript, C++, PHP
+- **Languages:** Java, Python, JavaScript, PHP
 - **Frameworks:** React, Bootstrap, Laravel
-- **Databases:** MySQL, Firebase
+- **Databases:** MySQL
 - **Version Control:** Git, GitHub
 - **Tools:** VS Code, Figma, Postman
 
